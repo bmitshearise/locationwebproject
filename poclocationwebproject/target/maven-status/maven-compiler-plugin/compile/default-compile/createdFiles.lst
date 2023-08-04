@@ -1,0 +1,8 @@
+org\bmit\poclocationwebproject\dal\entites\Location.class
+org\bmit\poclocationwebproject\service\LocationServicesImpl.class
+org\bmit\poclocationwebproject\util\EmailUtilImpl.class
+org\bmit\poclocationwebproject\service\LocationServices.class
+org\bmit\poclocationwebproject\util\EmailUtil.class
+org\bmit\poclocationwebproject\dal\repos\LocationRepository.class
+org\bmit\poclocationwebproject\controller\LocationController.class
+org\bmit\poclocationwebproject\PoclocationwebprojectApplication.class
